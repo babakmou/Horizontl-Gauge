@@ -1,0 +1,8 @@
+C:\Users\Babak\source\repos\ProjetSession\HorizontalGauge\bin\Debug\HorizontalGauge.dll
+C:\Users\Babak\source\repos\ProjetSession\HorizontalGauge\bin\Debug\HorizontalGauge.pdb
+C:\Users\Babak\source\repos\ProjetSession\HorizontalGauge\obj\Debug\HorizontalGauge.csprojAssemblyReference.cache
+C:\Users\Babak\source\repos\ProjetSession\HorizontalGauge\obj\Debug\HorizontalGauge.FillerGauge.resources
+C:\Users\Babak\source\repos\ProjetSession\HorizontalGauge\obj\Debug\HorizontalGauge.csproj.GenerateResource.cache
+C:\Users\Babak\source\repos\ProjetSession\HorizontalGauge\obj\Debug\HorizontalGauge.csproj.CoreCompileInputs.cache
+C:\Users\Babak\source\repos\ProjetSession\HorizontalGauge\obj\Debug\HorizontalGauge.dll
+C:\Users\Babak\source\repos\ProjetSession\HorizontalGauge\obj\Debug\HorizontalGauge.pdb
